@@ -1,0 +1,182 @@
+[
+  {
+    "genre": "Sci-Fi",
+    "title": "The Matrix",
+    "movie_id": "1",
+    "description": "A computer programmer discovers he lives in a simulated reality and joins a rebellion to free humanity.",
+    "actors": [
+      "Carrie-Anne Moss",
+      "Laurence Fishburne",
+      "Keanu Reeves"
+    ],
+    "director": "Wachowski Sisters"
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Inception",
+    "movie_id": "2",
+    "description": "A thief who enters the dreams of others to steal secrets is offered a chance to regain his old life in exchange for planting an idea in a CEO's mind.",
+    "actors": [
+      "Ellen Page",
+      "Joseph Gordon-Levitt",
+      "Leonardo DiCaprio"
+    ],
+    "director": "Christopher Nolan"
+  },
+  {
+    "genre": "Action",
+    "title": "The Dark Knight",
+    "movie_id": "3",
+    "description": "When the menace known as the Joker wreaks havoc on Gotham City, Batman must confront his greatest psychological and physical tests.",
+    "actors": [
+      "Michael Caine",
+      "Heath Ledger",
+      "Christian Bale"
+    ],
+    "director": "Christopher Nolan"
+  },
+  {
+    "genre": "Crime",
+    "title": "Pulp Fiction",
+    "movie_id": "4",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife interweave in four tales of violence and redemption.",
+    "actors": [
+      "Uma Thurman",
+      "Samuel L. Jackson",
+      "John Travolta"
+    ],
+    "director": "Quentin Tarantino"
+  },
+  {
+    "genre": "Drama",
+    "title": "Forrest Gump",
+    "movie_id": "5",
+    "description": "The story of a man with a low IQ who accomplished great things in his life, guided by his devoted mother and his pure heart.",
+    "actors": [
+      "Gary Sinise",
+      "Robin Wright",
+      "Tom Hanks"
+    ],
+    "director": "Robert Zemeckis"
+  },
+  {
+    "genre": "Crime",
+    "title": "The Godfather",
+    "movie_id": "6",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "actors": [
+      "James Caan",
+      "Al Pacino",
+      "Marlon Brando"
+    ],
+    "director": "Francis Ford Coppola"
+  },
+  {
+    "genre": "Adventure",
+    "title": "Jurassic Park",
+    "movie_id": "7",
+    "description": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "actors": [
+      "Jeff Goldblum",
+      "Laura Dern",
+      "Sam Neill"
+    ],
+    "director": "Steven Spielberg"
+  },
+  {
+    "genre": "Drama",
+    "title": "The Shawshank Redemption",
+    "movie_id": "8",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "actors": [
+      "Bob Gunton",
+      "Morgan Freeman",
+      "Tim Robbins"
+    ],
+    "director": "Frank Darabont"
+  },
+  {
+    "genre": "Romance",
+    "title": "Titanic",
+    "movie_id": "9",
+    "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "actors": [
+      "Billy Zane",
+      "Kate Winslet",
+      "Leonardo DiCaprio"
+    ],
+    "director": "James Cameron"
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Avatar",
+    "movie_id": "10",
+    "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "actors": [
+      "Sigourney Weaver",
+      "Zoe Saldana",
+      "Sam Worthington"
+    ],
+    "director": "James Cameron"
+  },
+  {
+    "genre": "Thriller",
+    "title": "The Silence of the Lambs",
+    "movie_id": "11",
+    "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "actors": [
+      "Scott Glenn",
+      "Anthony Hopkins",
+      "Jodie Foster"
+    ],
+    "director": "Jonathan Demme"
+  },
+  {
+    "genre": "Crime",
+    "title": "Goodfellas",
+    "movie_id": "12",
+    "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.",
+    "actors": [
+      "Joe Pesci",
+      "Ray Liotta",
+      "Robert De Niro"
+    ],
+    "director": "Martin Scorsese"
+  },
+  {
+    "genre": "Drama",
+    "title": "Fight Club",
+    "movie_id": "13",
+    "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+    "actors": [
+      "Helena Bonham Carter",
+      "Edward Norton",
+      "Brad Pitt"
+    ],
+    "director": "David Fincher"
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "movie_id": "14",
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "actors": [
+      "Viggo Mortensen",
+      "Ian McKellen",
+      "Elijah Wood"
+    ],
+    "director": "Peter Jackson"
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Star Wars: Episode IV - A New Hope",
+    "movie_id": "15",
+    "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station.",
+    "actors": [
+      "Carrie Fisher",
+      "Harrison Ford",
+      "Mark Hamill"
+    ],
+    "director": "George Lucas"
+  }
+]

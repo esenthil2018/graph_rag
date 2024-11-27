@@ -1,0 +1,51 @@
+# Environment variables and secrets
+.env
+*.env
+
+# Python virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+.python-version
+
+# Database files
+*.db
+chroma.db/
+chromadb/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+log/
+
+# Cache
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpointschroma_db/
+*.sqlite3
+chroma_db/
+*.sqlite3
+*.bin
